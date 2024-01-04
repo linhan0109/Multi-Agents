@@ -1,0 +1,243 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:43:20",
+  "curr_tile": [
+    73,
+    16
+  ],
+  "daily_plan_req": "Isabella Rodriguez goes to the Hobbs Cafe at 9:10 AM every day, and stays at the counter until 8 PM.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez uses the project, providing feedback and suggestions. In case of encountering any issues, she reports bugs to the maintainer and communicates new feature requests to him/her. Additionally, she collaborates with the coder to improve the project.",
+  "currently": "Isabella Rodriguez reports bugs to the maintainer, Maria Lopez, at Hobbs Cafe behind the cafe counter every day at 9:20 AM and discusses for a period time, which always lasts 10 minutes. After this, she collaborates with the coder, Klaus Mueller, at Hobbs Cafe behind the cafe counter at 10 AM which lasts about 30 minutes. At the other time, she uses the computer at Hobbs Cafe of refrigerator",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11 PM and wakes up around 8 AM.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 94,
+  "importance_ele_n": 20,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to Hobbs Cafe by 9:10 am and stay at the counter until 8 pm",
+    "at 9:20 am, Isabella reports bugs to the maintainer, Maria Lopez, and discuss for 10 minutes",
+    "at 10:00 am, she collaborates with the coder, Klaus Mueller for 30 minutes to discuss new feature requests and improvements for the project",
+    "come back to the counter and provide feedback and suggestions to other customers",
+    "take a lunch break from 12 to 1 pm",
+    "resume feedback and conversation till 6 pm",
+    "watch TV from 7 to 8 pm and then get ready for the next day"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to Hobbs Cafe and reporting bugs to the maintainer, Maria Lopez",
+      60
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (introducing the project to Klaus)",
+      5
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (discussing the current features of the project)",
+      10
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (discussing potential new features)",
+      10
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (discussing potential improvements)",
+      10
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (discussing potential bug fixes)",
+      10
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (discussing potential timeline for the project)",
+      10
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (summarizing the discussion)",
+      5
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (listening to customer feedback)",
+      5
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (providing suggestions to customers)",
+      10
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (answering customer questions)",
+      10
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (offering advice to customers)",
+      10
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (taking a break)",
+      5
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (reviewing customer feedback)",
+      10
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (summarizing customer feedback)",
+      5
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe (preparing to leave)",
+      5
+    ],
+    [
+      "having lunch break",
+      60
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe",
+      300
+    ],
+    [
+      "watching TV",
+      120
+    ],
+    [
+      "getting ready for the next day",
+      60
+    ],
+    [
+      "watching TV",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to Hobbs Cafe and reporting bugs to the maintainer, Maria Lopez",
+      60
+    ],
+    [
+      "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project",
+      60
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe",
+      60
+    ],
+    [
+      "having lunch break",
+      60
+    ],
+    [
+      "providing feedback and suggestions to other customers at Hobbs Cafe",
+      300
+    ],
+    [
+      "watching TV",
+      120
+    ],
+    [
+      "getting ready for the next day",
+      60
+    ],
+    [
+      "watching TV",
+      60
+    ],
+    [
+      "getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:desk",
+  "act_start_time": "February 13, 2023, 10:35:00",
+  "act_duration": 10,
+  "act_description": "collaborating with the coder, Klaus Mueller, to discuss new feature requests and improvements for the project (discussing potential bug fixes)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Isabella Rodriguez",
+    "discuss",
+    "potential bug fixes"
+  ],
+  "act_obj_description": "in use",
+  "act_obj_pronunciatio": "\ud83d\udea9\ud83d\udcbc",
+  "act_obj_event": [
+    "desk",
+    "is",
+    "use"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

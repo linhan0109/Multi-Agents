@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about this is a conversation about Isabella and Klaus discussing a proposed messaging feature and scheduling a meeting with Maria to further discuss and implement it @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I just finished reporting bugs to Maria. Did you come across any issues while checking your emails?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I found a couple of bugs while checking my emails. Let me show you what I discovered."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for showing me the bugs. I will report them to Maria as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else you need help with?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, actually I have a feature request that I wanted to discuss with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'm all ears. What feature request do you have?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would like to propose adding a messaging feature that allows customers to send feedback directly to the maintainer."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! Direct customer feedback can be really valuable. I think we can definitely consider adding that feature. Let's discuss it further and see how we can implement it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should schedule a meeting to discuss the details and brainstorm ideas for implementing the messaging feature."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, when would you like to schedule the meeting?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we schedule the meeting for tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, let's schedule the meeting for tomorrow afternoon. What time works best for you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about 2 PM tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "2 PM tomorrow works for me. Let's meet at Hobbs Cafe. I will bring my laptop so that we can take notes and discuss the implementation in more detail."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Should we invite Maria to the meeting as well to get her input on the messaging feature?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we should definitely invite Maria to the meeting. Her input would be valuable in discussing and implementing the messaging feature."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83c\udfe0\u2615",
+      "description": "leaving home and going to Hobbs Cafe @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about this is a conversation about Isabella and Klaus discussing a proposed messaging feature and scheduling a meeting with Maria to further discuss and implement it @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I just finished reporting bugs to Maria. Did you come across any issues while checking your emails?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I found a couple of bugs while checking my emails. Let me show you what I discovered."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for showing me the bugs. I will report them to Maria as well."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else you need help with?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, actually I have a feature request that I wanted to discuss with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'm all ears. What feature request do you have?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would like to propose adding a messaging feature that allows customers to send feedback directly to the maintainer."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! Direct customer feedback can be really valuable. I think we can definitely consider adding that feature. Let's discuss it further and see how we can implement it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should schedule a meeting to discuss the details and brainstorm ideas for implementing the messaging feature."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, when would you like to schedule the meeting?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we schedule the meeting for tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, let's schedule the meeting for tomorrow afternoon. What time works best for you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about 2 PM tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "2 PM tomorrow works for me. Let's meet at Hobbs Cafe. I will bring my laptop so that we can take notes and discuss the implementation in more detail."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Should we invite Maria to the meeting as well to get her input on the messaging feature?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we should definitely invite Maria to the meeting. Her input would be valuable in discussing and implementing the messaging feature."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:38:20"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc1b\ud83d\udce2",
+      "description": "collaborating with the coder at Hobbs Cafe behind the cafe counter (reporting bugs to the maintainer) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "discussing the pull request with coders at Hobbs Cafe (discussing the changes in the pull request) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\u270f\ufe0f",
+      "description": "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (making any necessary changes to the project) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:26:00"
+  }
+}

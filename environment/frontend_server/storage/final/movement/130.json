@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a proposed messaging feature that could enhance communication between team members @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I noticed that you're leaving home and coming to Hobbs Cafe. I wanted to talk to you about the proposed messaging feature that Klaus and I discussed. Do you have a few minutes to chat?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella! I have a few minutes to chat. Tell me more about the proposed messaging feature."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think the proposed messaging feature could greatly enhance communication between team members. I've gathered some feedback and suggestions from other team members and I wanted to discuss them with you. Are you available to meet later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have some time later today. Let's meet after lunch to discuss the feedback and suggestions."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's meet at 1 PM, after lunch, to discuss the feedback and suggestions."
+        ],
+        [
+          "Maria Lopez",
+          "Should we meet in the conference room or would you prefer a different location?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think the conference room would be a good location for our meeting. It's quiet and spacious."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good. I'll see you at 1 PM in the conference room."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about a proposed messaging feature that could enhance communication between team members @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I noticed that you're leaving home and coming to Hobbs Cafe. I wanted to talk to you about the proposed messaging feature that Klaus and I discussed. Do you have a few minutes to chat?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella! I have a few minutes to chat. Tell me more about the proposed messaging feature."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think the proposed messaging feature could greatly enhance communication between team members. I've gathered some feedback and suggestions from other team members and I wanted to discuss them with you. Are you available to meet later today?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have some time later today. Let's meet after lunch to discuss the feedback and suggestions."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's meet at 1 PM, after lunch, to discuss the feedback and suggestions."
+        ],
+        [
+          "Maria Lopez",
+          "Should we meet in the conference room or would you prefer a different location?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think the conference room would be a good location for our meeting. It's quiet and spacious."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good. I'll see you at 1 PM in the conference room."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce7\ud83d\udcac",
+      "description": "checking email and replying to any urgent messages @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:43:20"
+  }
+}

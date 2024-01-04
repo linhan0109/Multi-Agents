@@ -1,0 +1,229 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:26:40",
+  "curr_tile": [
+    131,
+    46
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College at 9:10 AM, spends his days coding and debug, and goes to the Hobbs Cafe at 9:20 AM.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 27,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying software engineering. He is passionate about coding and loves to explore new things.",
+  "currently": "Klaus Mueller is coding for an open-source project on a front-end framework. He submits the new version to the maintainer at 9:30 AM at cafe customer seating which lasts 5 minutes and communicates with users at 10 AM which lasts 2 minutes at cafe customer seating. At the other time, he always coding at Oak Hill College of Klaus Mueller's room",
+  "lifestyle": "Klaus Mueller goes to bed around 11 PM, wakes up around 7 AM, and eats dinner around 5 PM.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 63,
+  "importance_ele_n": 28,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the library at Oak Hill College at 9:10 am",
+    "coding and debug at the library",
+    "have lunch at 12:00 pm",
+    "head to Hobbs Cafe at 9:20 am",
+    "Submit a new version to maintainer at 9:30 am at cafe customer seating, which lasts 5 minutes",
+    "communicate with users at 10 am at cafe customer seating, which lasts 2 minutes",
+    "back to Oak Hill College of my room to do coding"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College",
+      60
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (on the way to preparing the new version of the project)",
+      0
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (conversing about This is a conversation between Maria Lopez and Klaus Mueller about collaborating on their open-source projects focused on front-end frameworks and discussing challenges and solutions they have encountered.)",
+      8
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (submitting the new version to the maintainer)",
+      5
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (discussing the project with the maintainer)",
+      5
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (making any necessary changes to the project)",
+      10
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (testing the project)",
+      10
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (packing up his laptop)",
+      10
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (finalizing the project)",
+      12
+    ],
+    [
+      "coding and debugging at the library (researching the project)",
+      15
+    ],
+    [
+      "coding and debugging at the library (writing code)",
+      15
+    ],
+    [
+      "coding and debugging at the library (debugging the code)",
+      15
+    ],
+    [
+      "coding and debugging at the library (testing the code)",
+      15
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "coding and debugging at the library",
+      240
+    ],
+    [
+      "going to Hobbs Cafe",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College of his room",
+      120
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College of his room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College",
+      60
+    ],
+    [
+      "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes",
+      60
+    ],
+    [
+      "coding and debugging at the library",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "coding and debugging at the library",
+      240
+    ],
+    [
+      "going to Hobbs Cafe",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College of his room",
+      120
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College of his room",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+  "act_start_time": "February 13, 2023, 10:21:00",
+  "act_duration": 10,
+  "act_description": "submitting a new version to maintainer at cafe customer seating which lasts 5 minutes (making any necessary changes to the project)",
+  "act_pronunciatio": "\u270f\ufe0f",
+  "act_event": [
+    "Klaus Mueller",
+    "make",
+    "changes"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd04",
+  "act_obj_event": [
+    "desk",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 572
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

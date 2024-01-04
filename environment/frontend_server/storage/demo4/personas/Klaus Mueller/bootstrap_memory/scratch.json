@@ -1,0 +1,236 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:43:20",
+  "curr_tile": [
+    119,
+    49
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College at 9:10 AM, spends his days coding and debug, and goes to the Hobbs Cafe at 9:20 AM.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 27,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student and a coder at Oak Hill College studying software engineering. He is passionate about coding and loves to explore new things.",
+  "currently": "Klaus Mueller is coding for an open-source project on a front-end framework. He submits the new version to the maintainer,Maria Lopez, at 9:30 AM and communicates for a while at cafe customer seating which lasts 5 minutes and communicates with the user,Isabella Rodriguez, at 10 AM which lasts 2 minutes at cafe customer seating. At the other time, he always coding at Oak Hill College of Klaus Mueller's room",
+  "lifestyle": "Klaus Mueller goes to bed around 11 PM, wakes up around 7 AM, and eats dinner around 5 PM.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 55,
+  "importance_ele_n": 30,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the library at Oak Hill College at 9:10 am",
+    "spend the whole day coding and debugging",
+    "have lunch at 12:00 pm",
+    "go to Hobbs Cafe at 9:20 am to communicate with the maintainer, Maria Lopez, at 9:30 am and the user, Isabella Rodriguez, at 10:00 am",
+    "return to Oak Hill College and continue coding and debugging",
+    "have dinner at 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College",
+      60
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (on the way to talking to Maria Lopez about the project)",
+      0
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (conversing about conversing about their open-source front-end framework projects and arranging a meeting at the library to exchange ideas and discuss relevant documentation, code, and prototypes.)",
+      7
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (talking to Maria Lopez about the project)",
+      8
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (listening to Maria Lopez's feedback)",
+      5
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (discussing the project with Maria Lopez)",
+      10
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (taking a break)",
+      5
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (discussing the project with Isabella Rodriguez)",
+      10
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (listening to Isabella Rodriguez's feedback)",
+      5
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (taking a break)",
+      10
+    ],
+    [
+      "coding and debugging at Oak Hill College (reviewing the code)",
+      10
+    ],
+    [
+      "coding and debugging at Oak Hill College (debugging the code)",
+      10
+    ],
+    [
+      "coding and debugging at Oak Hill College (writing new code)",
+      10
+    ],
+    [
+      "coding and debugging at Oak Hill College (testing the code)",
+      10
+    ],
+    [
+      "coding and debugging at Oak Hill College (taking a break)",
+      5
+    ],
+    [
+      "coding and debugging at Oak Hill College (reviewing the code again)",
+      10
+    ],
+    [
+      "coding and debugging at Oak Hill College (making final changes to the code)",
+      5
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College",
+      240
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College",
+      300
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing his morning routine",
+      60
+    ],
+    [
+      "going to the library at Oak Hill College",
+      60
+    ],
+    [
+      "at the Hobbs Cafe communicating with the maintainer, Maria Lopez",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College",
+      240
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "coding and debugging at Oak Hill College",
+      300
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 13, 2023, 10:38:00",
+  "act_duration": 10,
+  "act_description": "at the Hobbs Cafe communicating with the maintainer, Maria Lopez (discussing the project with Isabella Rodriguez)",
+  "act_pronunciatio": "\ud83d\udcac",
+  "act_event": [
+    "Klaus Mueller",
+    "discuss",
+    "project"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_event": [
+    "common room table",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 519
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

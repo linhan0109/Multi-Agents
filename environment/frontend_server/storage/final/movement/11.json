@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc1b\ud83d\udccb",
+      "description": "reporting bugs to Maria Lopez at Hobbs Cafe behind the cafe counter @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about discussing and fixing bugs that Isabella found @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I wanted to discuss the bugs Isabella found earlier. Have you had a chance to look at them?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I looked at the bugs that Isabella found. I have fixed most of them, but there are a few remaining. I will continue working on them after our meeting. Can we discuss it over our scheduled meeting at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's discuss the bugs during our scheduled meeting at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "When would be a good time for the meeting at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's meet at 9:30 AM at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! See you at 9:30 AM at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about discussing and fixing bugs that Isabella found @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I wanted to discuss the bugs Isabella found earlier. Have you had a chance to look at them?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I looked at the bugs that Isabella found. I have fixed most of them, but there are a few remaining. I will continue working on them after our meeting. Can we discuss it over our scheduled meeting at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's discuss the bugs during our scheduled meeting at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "When would be a good time for the meeting at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's meet at 9:30 AM at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! See you at 9:30 AM at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:03:40"
+  }
+}

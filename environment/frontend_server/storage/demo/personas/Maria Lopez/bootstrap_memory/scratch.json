@@ -1,0 +1,175 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 09:59:10",
+  "curr_tile": [
+    121,
+    41
+  ],
+  "daily_plan_req": "Maria Lopez stays at Hobbs Cafe from 9:10 AM to 11:50 AM and works at home in the left time.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 40,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a maintainer for an open-source project focused on a front-end framework.",
+  "currently": "Maria Lopez learns about bugs from users at Hobbs Cafe at 9:10 AM and then discusses the pull request with coders at 9:30 AM.",
+  "lifestyle": "Maria Lopez goes to bed around 2 AM, wakes up around 9 AM, and eats dinner around 6 PM.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 132,
+  "importance_ele_n": 12,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to Hobbs Cafe at 9:10 am",
+    "receive feedback from users from 9:10 am to 11:50 am",
+    "discuss pull requests with coders at 9:30 am",
+    "have a lunch at 12:00 pm",
+    "work at home in the left time",
+    "end the workday at 6:30 pm",
+    "have dinner at 6:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to Hobbs Cafe",
+      60
+    ],
+    [
+      "receiving feedback from users at Hobbs Cafe (setting up her laptop)",
+      5
+    ],
+    [
+      "receiving feedback from users at Hobbs Cafe (introducing herself to the users)",
+      10
+    ],
+    [
+      "receiving feedback from users at Hobbs Cafe (listening to the users' feedback)",
+      15
+    ],
+    [
+      "receiving feedback from users at Hobbs Cafe (taking notes)",
+      10
+    ],
+    [
+      "receiving feedback from users at Hobbs Cafe (asking questions)",
+      10
+    ],
+    [
+      "receiving feedback from users at Hobbs Cafe (summarizing the feedback)",
+      10
+    ],
+    [
+      "discussing pull requests with coders",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "working at home",
+      240
+    ],
+    [
+      "having dinner",
+      120
+    ],
+    [
+      "working at home",
+      180
+    ],
+    [
+      "relaxing",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "going to Hobbs Cafe",
+      60
+    ],
+    [
+      "receiving feedback from users at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing pull requests with coders",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "working at home",
+      240
+    ],
+    [
+      "having dinner",
+      120
+    ],
+    [
+      "working at home",
+      180
+    ],
+    [
+      "relaxing",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:garden:dorm garden",
+  "act_start_time": "February 13, 2023, 09:00:00",
+  "act_duration": 60,
+  "act_description": "going to Hobbs Cafe",
+  "act_pronunciatio": "\u2615",
+  "act_event": [
+    "Maria Lopez",
+    "go",
+    "Hobbs Cafe"
+  ],
+  "act_obj_description": "being used by Maria Lopez",
+  "act_obj_pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbc",
+  "act_obj_event": [
+    "dorm garden",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

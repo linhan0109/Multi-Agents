@@ -1,0 +1,218 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:26:40",
+  "curr_tile": [
+    73,
+    16
+  ],
+  "daily_plan_req": "Isabella Rodriguez uses the project at Hobbs Cafe at 9:10 every day, and stays at the counter until 8pm.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez uses the project, providing feedback and suggestions. In case of encountering any issues, she reports bugs to the maintainer and communicates new feature requests to him/her. Additionally, she collaborates with the coder to improve the project.",
+  "currently": "Isabella Rodriguez reports bugs to the maintainer at Hobbs Cafe behind the cafe counter every day at 9:20 AM, which always lasts 10 minutes. After this, she collaborates with the coder at Hobbs Cafe behind the cafe counter at 10 AM which lasts about 30 minutes. At the other time, she uses the project at Hobbs Cafe on cafe customer seating",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11 PM and wakes up around 8 AM.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 117,
+  "importance_ele_n": 16,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "report bugs to maintainer at Hobbs Cafe behind the cafe counter at 9:20 am",
+    "collaborate with the coder at Hobbs Cafe behind the cafe counter at 10:00 am",
+    "use the project at Hobbs Cafe on cafe customer seating from 11:00 am to 12:00 pm",
+    "have lunch at 12:00 pm",
+    "use the project at Hobbs Cafe on cafe customer seating from 1:00 to 3:00 pm",
+    "do errands from 3:30 to 5:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "reporting bugs to maintainer at Hobbs Cafe behind the cafe counter",
+      60
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter (discussing the project with the coder)",
+      10
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter (providing feedback and suggestions)",
+      10
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter (reporting bugs to the maintainer)",
+      10
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter (communicating new feature requests)",
+      10
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter (taking a break)",
+      5
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter (discussing the project with the coder)",
+      10
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter (making final changes to the project)",
+      5
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating (reviewing the project requirements)",
+      10
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating (testing the project)",
+      15
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating (providing feedback and suggestions)",
+      10
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating (reporting bugs to the maintainer)",
+      10
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating (communicating new feature requests)",
+      10
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating (making final changes to the project)",
+      5
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating",
+      180
+    ],
+    [
+      "doing errands",
+      60
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating",
+      240
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "having a relaxing evening",
+      120
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "reporting bugs to maintainer at Hobbs Cafe behind the cafe counter",
+      60
+    ],
+    [
+      "collaborating with the coder at Hobbs Cafe behind the cafe counter",
+      60
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating",
+      180
+    ],
+    [
+      "doing errands",
+      60
+    ],
+    [
+      "using the project at Hobbs Cafe on cafe customer seating",
+      240
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "having a relaxing evening",
+      120
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:desk",
+  "act_start_time": "February 13, 2023, 10:20:00",
+  "act_duration": 10,
+  "act_description": "collaborating with the coder at Hobbs Cafe behind the cafe counter (reporting bugs to the maintainer)",
+  "act_pronunciatio": "\ud83d\udc1b\ud83d\udce2",
+  "act_event": [
+    "Isabella Rodriguez",
+    "report",
+    "bugs"
+  ],
+  "act_obj_description": "being used",
+  "act_obj_pronunciatio": "\ud83d\udd28",
+  "act_obj_event": [
+    "desk",
+    "be",
+    "used"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

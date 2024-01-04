@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\u2615\ud83d\udc1b",
+      "description": "going to Hobbs Cafe and reporting bugs to the maintainer, Maria Lopez @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about their open-source front-end framework projects and arranging a meeting at the library to exchange ideas and discuss relevant documentation, code, and prototypes. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you heading to the library. What are you planning to study?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm planning to study software engineering today. I have a project that I'm working on for an open-source front-end framework."
+        ],
+        [
+          "Maria Lopez",
+          "That's interesting! I'm also working on an open-source project focused on a front-end framework. We should exchange ideas sometime!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I would love to exchange ideas with you. How about we meet later today at the library to discuss our projects?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a plan. What time works for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm free around 2 PM. Does that work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "2 PM works for me too. Let's meet at the library then!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! See you at 2 PM at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Should we bring any materials or documents for our discussion?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should bring our laptops and any relevant documentation for our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring notebooks for taking notes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we should definitely bring notebooks to take notes during our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring my laptop and relevant documentation. See you at 2 PM at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also bring any reference books or resources?"
+        ],
+        [
+          "Maria Lopez",
+          "We don't necessarily have to bring reference books or resources, but it might be helpful to have them on hand, just in case we need to look something up."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also bring our project code and any prototypes we have developed for our discussion."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about their open-source front-end framework projects and arranging a meeting at the library to exchange ideas and discuss relevant documentation, code, and prototypes. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you heading to the library. What are you planning to study?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm planning to study software engineering today. I have a project that I'm working on for an open-source front-end framework."
+        ],
+        [
+          "Maria Lopez",
+          "That's interesting! I'm also working on an open-source project focused on a front-end framework. We should exchange ideas sometime!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I would love to exchange ideas with you. How about we meet later today at the library to discuss our projects?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a plan. What time works for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm free around 2 PM. Does that work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "2 PM works for me too. Let's meet at the library then!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! See you at 2 PM at the library."
+        ],
+        [
+          "Maria Lopez",
+          "Should we bring any materials or documents for our discussion?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should bring our laptops and any relevant documentation for our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring notebooks for taking notes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we should definitely bring notebooks to take notes during our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring my laptop and relevant documentation. See you at 2 PM at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also bring any reference books or resources?"
+        ],
+        [
+          "Maria Lopez",
+          "We don't necessarily have to bring reference books or resources, but it might be helpful to have them on hand, just in case we need to look something up."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also bring our project code and any prototypes we have developed for our discussion."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:05:40"
+  }
+}

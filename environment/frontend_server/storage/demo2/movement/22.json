@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83d\udd0d\ud83c\udfe2",
+      "description": "exploring the project at Hobbs Cafe @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about coordinating a meeting at Hobbs Cafe to discuss the pull request @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you heading to the library at Oak Hill College to start coding for the open-source project. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well so far. I've made some progress on the coding and debugging. How about you? How's your learning about bugs going?"
+        ],
+        [
+          "Maria Lopez",
+          "It's going well! I've been able to identify and fix a few bugs already. Have you encountered any particularly tricky issues?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't encountered any tricky issues yet. But if I do, I'll definitely reach out to you for help!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! If you run into any challenges, feel free to let me know. I'm always here to help!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I appreciate your support. I'll definitely reach out to you if I need any help."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, have you seen any new pull requests for the open-source project?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't seen any new pull requests yet. Have you?"
+        ],
+        [
+          "Maria Lopez",
+          "No, I haven't seen any new pull requests yet. Have you?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't seen any new pull requests yet. Have you?"
+        ],
+        [
+          "Maria Lopez",
+          "We should coordinate with the coders to discuss the pull request. Let's meet at Hobbs Cafe at 9:30 AM."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's meet at Hobbs Cafe at 9:30 AM to discuss the pull request."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at Hobbs Cafe at 9:30 AM to discuss the pull request."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we inform the maintainer about our plan to meet and discuss the pull request?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, we should inform the maintainer about our plan to meet and discuss the pull request."
+        ],
+        [
+          "Klaus Mueller",
+          "I will send an email to the maintainer to inform them about our plan."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about coordinating a meeting at Hobbs Cafe to discuss the pull request @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you heading to the library at Oak Hill College to start coding for the open-source project. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well so far. I've made some progress on the coding and debugging. How about you? How's your learning about bugs going?"
+        ],
+        [
+          "Maria Lopez",
+          "It's going well! I've been able to identify and fix a few bugs already. Have you encountered any particularly tricky issues?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't encountered any tricky issues yet. But if I do, I'll definitely reach out to you for help!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! If you run into any challenges, feel free to let me know. I'm always here to help!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I appreciate your support. I'll definitely reach out to you if I need any help."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, have you seen any new pull requests for the open-source project?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't seen any new pull requests yet. Have you?"
+        ],
+        [
+          "Maria Lopez",
+          "No, I haven't seen any new pull requests yet. Have you?"
+        ],
+        [
+          "Klaus Mueller",
+          "No, I haven't seen any new pull requests yet. Have you?"
+        ],
+        [
+          "Maria Lopez",
+          "We should coordinate with the coders to discuss the pull request. Let's meet at Hobbs Cafe at 9:30 AM."
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's meet at Hobbs Cafe at 9:30 AM to discuss the pull request."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at Hobbs Cafe at 9:30 AM to discuss the pull request."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we inform the maintainer about our plan to meet and discuss the pull request?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, we should inform the maintainer about our plan to meet and discuss the pull request."
+        ],
+        [
+          "Klaus Mueller",
+          "I will send an email to the maintainer to inform them about our plan."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:07:20"
+  }
+}

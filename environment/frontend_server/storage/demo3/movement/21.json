@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc1b\u2709\ufe0f",
+      "description": "reporting bugs to maintainer at Hobbs Cafe behind the cafe counter @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about This is a conversation between Maria Lopez and Klaus Mueller about collaborating on their open-source projects focused on front-end frameworks and discussing challenges and solutions they have encountered. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you heading to the library. What are you studying?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm studying software engineering. Currently, I'm working on an open-source project and coding for a front-end framework. What about you? What are you learning?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, that's interesting! I'm also working on an open-source project focused on a front-end framework. Maybe we can exchange ideas and collaborate!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I would love to exchange ideas and collaborate. How about we meet up at the library tomorrow to discuss further?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to meet up at the library tomorrow to discuss further!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! What time works for you?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at the library at 3 PM tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good! See you at the library tomorrow at 3 PM."
+        ],
+        [
+          "Maria Lopez",
+          "Should we bring any materials or documents for our meeting?"
+        ],
+        [
+          "Klaus Mueller",
+          "We can bring our laptops or notebooks to take notes and share any relevant code or documentation. It will be helpful for our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring any specific books or resources related to front-end development?"
+        ],
+        [
+          "Klaus Mueller",
+          "We don't need to bring any specific books or resources, but if you have any recommendations, feel free to bring them!"
+        ],
+        [
+          "Maria Lopez",
+          "I can also bring some code samples from the project I'm working on. It might help us in our discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great, Maria! Bringing some code samples will be really helpful. I'm looking forward to our meeting tomorrow at 3 PM."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any specific topics or questions you want to discuss during our meeting?"
+        ],
+        [
+          "Klaus Mueller",
+          "We can discuss the specific challenges and roadblocks we have encountered while working on our respective projects. It would be great to brainstorm solutions and share our experiences."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about This is a conversation between Maria Lopez and Klaus Mueller about collaborating on their open-source projects focused on front-end frameworks and discussing challenges and solutions they have encountered. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you heading to the library. What are you studying?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm studying software engineering. Currently, I'm working on an open-source project and coding for a front-end framework. What about you? What are you learning?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, that's interesting! I'm also working on an open-source project focused on a front-end framework. Maybe we can exchange ideas and collaborate!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I would love to exchange ideas and collaborate. How about we meet up at the library tomorrow to discuss further?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to meet up at the library tomorrow to discuss further!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! What time works for you?"
+        ],
+        [
+          "Maria Lopez",
+          "How about we meet at the library at 3 PM tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good! See you at the library tomorrow at 3 PM."
+        ],
+        [
+          "Maria Lopez",
+          "Should we bring any materials or documents for our meeting?"
+        ],
+        [
+          "Klaus Mueller",
+          "We can bring our laptops or notebooks to take notes and share any relevant code or documentation. It will be helpful for our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also bring any specific books or resources related to front-end development?"
+        ],
+        [
+          "Klaus Mueller",
+          "We don't need to bring any specific books or resources, but if you have any recommendations, feel free to bring them!"
+        ],
+        [
+          "Maria Lopez",
+          "I can also bring some code samples from the project I'm working on. It might help us in our discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great, Maria! Bringing some code samples will be really helpful. I'm looking forward to our meeting tomorrow at 3 PM."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any specific topics or questions you want to discuss during our meeting?"
+        ],
+        [
+          "Klaus Mueller",
+          "We can discuss the specific challenges and roadblocks we have encountered while working on our respective projects. It would be great to brainstorm solutions and share our experiences."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:07:00"
+  }
+}

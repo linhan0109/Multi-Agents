@@ -1,0 +1,274 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 10:43:20",
+  "curr_tile": [
+    119,
+    48
+  ],
+  "daily_plan_req": "Maria Lopez stays at Hobbs Cafe from 9:10 AM to 11:50 AM and works at home in the left time.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 40,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a maintainer for an open-source project focused on a front-end framework.",
+  "currently": "Maria Lopez learns about bugs from the user,Isabella Rodriguez, at Hobbs Cafe at 9:10 AM and then discusses the pull request with the coder,Klaus Mueller, at 9:30 AM at Hobbs Cafe. And he always drinks coffee at the other time of piano.",
+  "lifestyle": "Maria Lopez goes to bed around 2 AM, wakes up around 9 AM, and eats dinner around 6 PM.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 35,
+  "importance_ele_n": 40,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast at 8:30 am",
+    "go to Hobbs Cafe at 9:10 am and meet with user Isabella Rodriguez at 9:30 am to go over bugs and discuss pull requests at 11:50 am",
+    "have lunch at 12 noon",
+    "work at home on the open source project from 1 to 2:30 pm",
+    "break for refreshments between 2:30 and 3 pm",
+    "finish up work at home from 3 to 6:30 pm",
+    "have dinner at 6 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (on the way to greeting Isabella)",
+      0
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (conversing about conversing about their open-source front-end framework projects and arranging a meeting at the library to exchange ideas and discuss relevant documentation, code, and prototypes.)",
+      7
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (listening to Isabella's bug report)",
+      13
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (asking Isabella questions about the bug)",
+      10
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (taking notes on the bug)",
+      10
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (thanking Isabella for her report)",
+      5
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (discussing the bug with Isabella)",
+      10
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe (saying goodbye to Isabella)",
+      5
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller (introducing herself to Klaus)",
+      5
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller (explaining the project and the bug)",
+      10
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller (discussing the pull request with Klaus)",
+      15
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller (taking a break)",
+      5
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller (reviewing the pull request)",
+      10
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller (making final changes to the pull request)",
+      10
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller (printing the pull request)",
+      5
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "working on the open source project from home",
+      120
+    ],
+    [
+      "taking a break for refreshments",
+      60
+    ],
+    [
+      "working on the open source project from home",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing",
+      120
+    ],
+    [
+      "watching a movie",
+      60
+    ],
+    [
+      "reading a book",
+      60
+    ],
+    [
+      "going to bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "meeting with user Isabella Rodriguez at Hobbs Cafe",
+      60
+    ],
+    [
+      "discussing pull requests with coder Klaus Mueller",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "working on the open source project from home",
+      120
+    ],
+    [
+      "taking a break for refreshments",
+      60
+    ],
+    [
+      "working on the open source project from home",
+      120
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "relaxing",
+      120
+    ],
+    [
+      "watching a movie",
+      60
+    ],
+    [
+      "reading a book",
+      60
+    ],
+    [
+      "going to bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:common room:common room table",
+  "act_start_time": "February 13, 2023, 10:43:00",
+  "act_duration": 5,
+  "act_description": "meeting with user Isabella Rodriguez at Hobbs Cafe (thanking Isabella for her report)",
+  "act_pronunciatio": "\ud83d\ude4f",
+  "act_event": [
+    "Maria Lopez",
+    "thank",
+    "Isabella"
+  ],
+  "act_obj_description": "being cleaned",
+  "act_obj_pronunciatio": "\ud83d\udec1\ud83e\uddd6\u200d",
+  "act_obj_event": [
+    "common room table",
+    "be",
+    "cleaned"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 519
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      120,
+      49
+    ],
+    [
+      121,
+      49
+    ],
+    [
+      122,
+      49
+    ]
+  ]
+}
